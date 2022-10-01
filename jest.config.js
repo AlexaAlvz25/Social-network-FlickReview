@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 // For a detailed explanation regarding each configuration property, visit: https://jestjs.io/docs/configuration
+=======
+/*
+ * For a detailed explanation regarding each configuration property, visit:
+ * https://jestjs.io/docs/configuration
+ */
+>>>>>>> 0dd1d05 (Adding firebase and jest configuerated to deploy and first test)
 
 module.exports = {
   // All imported modules in your tests should be mocked automatically
@@ -8,7 +15,11 @@ module.exports = {
   // bail: 0,
 
   // The directory where Jest should store its cached dependency information
+<<<<<<< HEAD
   // cacheDirectory: "C:\\Users\\Maria A. Ramirez\\AppData\\Local\\Temp\\jest",
+=======
+  // cacheDirectory: "C:\\Users\\an_al\\AppData\\Local\\Temp\\jest",
+>>>>>>> 0dd1d05 (Adding firebase and jest configuerated to deploy and first test)
 
   // Automatically clear mock calls, instances and results before every test
   clearMocks: true,
