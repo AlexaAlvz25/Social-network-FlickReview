@@ -70,6 +70,13 @@ Después se realizaron pruebas para crear publicaciones una vez que el usuario i
 [Aquí](https://drive.google.com/drive/folders/1ITEjvpeOtdn4RiyqYyzLB0EfyTRORURy?usp=sharing) pueden consultarse los registros.
 
 
+## 6. Pruebas Unitarias
+
+Realizamos pruebas unitarias sobre el componente de 'REGISTER', implementando mocks para las funciones basadas en firebase/firestore.
+Cubriendo hasta un 87% de la totalidad de los statements del componente.
+
+![Pruebas Unitarias PASS](src/images/Unit-test-PASS.jpg)
+
 
 ## 7. Créditos y agradecimientos
 
